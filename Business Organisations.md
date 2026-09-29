@@ -554,3 +554,124 @@ A person who identifies opportunities, organizes resources, takes risks, and man
 > **Pinyin:** Jiāyóu, nǐ bǐ xiǎngxiàng zhōng gèng jiējìn chénggōng.
 >
 > **汉字:** 加油，你比想象中更接近成功。
+
+-------------
+----------
+## 🛒 Week 4 : E-Commerce
+### 1. 🌐 Define E-Commerce
+  - E-commerce refers to the production, advertising, sale and distribution of products via the electronic network.
+    - 🀄 电子商务 — diànzǐ shāngwù = E-commerce
+
+-----------------
+
+### 2. 📱 Channels of E-Commerce
+  - 🌐 Internet
+  - 📱 Mobile devices
+    
+    - 🀄 互联网 — hùliánwǎng = Internet
+
+--------------
+
+### 3. 💳 Modes of Payment in E-Commerce
+- Cash
+- Plastic bank cards
+- PayPal
+- Amazon Pay
+- Apple Pay
+- Stripe
+- EFT — Electronic Funds Transfer
+
+  - 🀄 支付 — zhīfù = Payment
+
+---------------------
+
+### 4. 🏢 State the Forms/Types of E-Commerce Transactions
+- Business to Business - all transactions between a company and its suppliers
+- Business to Consumer
+- Conumer to Consumer - electronic markets formed by Web-based auctions
+- Government to Business- all transactions between a company and government agencies.
+
+  - 🀄 企业 — qǐyè = Business
+  - 🀄 客户 — kèhù = Customer
+  - 🀄 政府 — zhèngfǔ = Government
+
+------------------
+
+### 5. 🎯 Objectives of E-Commerce
+- 📢 Raise awareness of potential opportunities and threats.
+- 🌍 Expand customer reach.
+- 💰 Reduce cost to serve customers.
+- 🤝 Develop business relations.
+- ⭐ Create competence and unique customer experience.
+
+  - 🀄 目标 — mùbiāo = Objective
+  - 🀄 机会 — jīhuì = Opportunity
+  - 🀄 威胁 — wēixié = Threat
+
+------------
+
+### 6. 🏗️ Requirements for E-Commerce
+- Policies to facilitate e-commerce.
+- Telecommunication infrastructure.
+- Legal framework that develops trust in e-commerce transactions.
+- Financial environment that facilitates technological development.
+- Training that promotes e-commerce.
+- Access to inexpensive, reliable internet services.
+
+  - ⚖️🧑‍⚖️ 法律 — fǎlǜ = Law
+  - 🎓📚 培训 — péixùn = Training
+  - 🛡️✨ 可靠 — kěkào = Reliable
+
+------------  
+
+### 7. 🏪 How Has E-Commerce Affected Small Businesses?
+?
+
+-------------
+
+### 8. ✅ State the Advantages of E-Commerce
+- 📣 Reduced marketing and advertising expenses.
+- 🌍 Unlimited marketplace and business access, extending the customer base.
+- 📞 Reduced unnecessary phone calls and mails.
+- 🤝 Eliminates middlemen by selling directly to the customer.
+- 🎧 Reduces customer service and sales support.
+- 💬 Better way of dealing with dealers and customers.
+- 🔐 Secure payment system.
+- 🌎 Promotes products globally.
+- 🚚 Reduced costs on transportation and warehousing.
+
+  - 🀄 全球 — quánqiú = Global
+  - 🀄 产品 — chǎnpǐn = Product
+  - 🀄 安全 — ānquán = Security/Safety
+
+-----------
+
+### 9. ❌ Disadvantages of E-Commerce
+- Bad sites; may take customers' money.
+- No guarantee of product quality.
+- Mechanical failures; can cause unpredictable effects on total processes.
+- Limited direct customer-to-company interaction; can affect customer loyalty.
+- Attacks by hackers.
+- Delayed orders
+
+  - 🀄 黑客 — hēikè = Hacker
+  - 🀄 攻击 — gōngjī = Attack
+  - 🀄 客户忠诚度 — kèhù zhōngchéngdù = Customer loyalty
+
+--------------------------------
+
+### ⭐ QUICK EXAM CHECK
+- Topic	What to Remember:
+  - 🌐 Definition	Production, advertising, sale & distribution electronically
+  - 📱 Channels	Internet + Mobile devices
+  - 💳 Payments	Cash, cards, PayPal, Amazon Pay, Apple Pay, Stripe, EFT
+  - 🏢 Forms	B2B, B2C, B2E, B2G
+  - 🎯 Objectives	Awareness, reach, cost, relations, customer experience
+  - 🏗️ Requirements	Policies, telecom, legal, financial, training, internet
+  - 🏪 Small business	Cyber cafes + community phones
+  - 👕 Industry	Textile
+  - ✅ Advantages	Lower expenses, wider access, direct selling, secure payment, global promotion
+  - ❌ Disadvantages	Bad sites, quality issues, failures, limited interaction, hackers
+  - ⚠️ 7 tools a small business can use to start an online store.
+
+
