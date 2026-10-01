@@ -1,23 +1,23 @@
 <div align="center">
 
-# 🌟 Week 1: Introduction To Business Organizations 🌟
+# 🌟 Week 1: Introduction To Business Organizations 
 
 </div>
 
-# 🌟 Define Business, Commerce, Trade, Auxiliaries To Trade 🌟
+### 1. Define Business, Commerce, Trade, Auxiliaries To Trade 
 
-## 📌 Business
+## Business
 A **business** is an economic activity that involves the production, purchase, or sale of goods and services with the aim of earning a profit.
 
-## 📌 Commerce
+## Commerce
 **Commerce** refers to all activities involved in the distribution of goods and services from producers to consumers.
 
-## 📌 Trade
+## Trade
 **Trade** is the buying and selling of goods and services between individuals, businesses, or countries.
 
 ------------
 
-### Types Of Trade
+### 2. Types Of Trade
 - 🏠 Internal Trade
   - Wholesale Trade
   - Retail Trade
@@ -28,7 +28,7 @@ A **business** is an economic activity that involves the production, purchase, o
 
 -------
 
-## 📌 Auxiliaries To Trade
+### 3. Mention the Auxiliaries To Trade
 These are services that help trade take place smoothly.
 
 ### Examples
@@ -41,74 +41,40 @@ These are services that help trade take place smoothly.
 
 ---
 
-# 🌟 Aspects Of Business 🌟
 
-Business consists of two major aspects:
+### 4. List Business Objectives
+- **Profit Making** - To earn income and sustain operations.
 
-## 🏭 Industry
-Concerned with the production and extraction of goods and services.
+- **Customer Satisfaction** - To provide quality products and services.
 
-## 🛒 Commerce
-Concerned with the distribution of goods and services from producers to consumers.
+- **Growth And Expansion** - To increase market share and business size.
 
----
+- **Survival** - To remain in operation despite competition.
 
-# 🌟 Business Objectives 🌟
+- **Market Leadership** - To become the leading business in a market.
 
-Business objectives are the goals a business seeks to achieve.
-
-### 🎯 Profit Making
-To earn income and sustain operations.
-
-### 😊 Customer Satisfaction
-To provide quality products and services.
-
-### 📈 Growth And Expansion
-To increase market share and business size.
-
-### 🌱 Survival
-To remain in operation despite competition.
-
-### 🏆 Market Leadership
-To become the leading business in a market.
-
-### 🤝 Social Responsibility
-To contribute positively to society and the environment.
+- **Social Responsibility** - To contribute positively to society and the environment.
 
 ---
 
-# 🌟 Characteristics Of Business Activities 🌟
+### 5. Characteristics Of Business Activities 
+- **🔄 Economic Activity** - Business involves production and distribution of goods and services.
 
-### 🔄 Economic Activity
-Business involves production and distribution of goods and services.
+- **💰 Profit Motive** - The primary objective is earning profit.
 
-### 💰 Profit Motive
-The primary objective is earning profit.
+- **⚠️ Risk And Uncertainty** - Business faces possible losses and changing conditions.
 
-### ⚠️ Risk And Uncertainty
-Business faces possible losses and changing conditions.
+- **🔁 Continuous Process** - Business activities occur regularly.
 
-### 🔁 Continuous Process
-Business activities occur regularly.
+- **👥 Customer Satisfaction** - Activities focus on meeting customer needs.
 
-### 👥 Customer Satisfaction
-Activities focus on meeting customer needs.
+- **💵 Investment Requirement** - Capital is needed to start and operate a business.
 
-### 💵 Investment Requirement
-Capital is needed to start and operate a business.
-
-### 📦 Production Or Exchange
-Business involves producing or exchanging goods and services.
+- **📦 Production Or Exchange** - Business involves producing or exchanging goods and services.
 
 ---
 
-# 🌟 Industry 🌟
-
-## 📌 Meaning Of Industry
-
-**Industry** refers to activities involved in extracting, producing, processing, or manufacturing goods.
-
-### Types Of Industry
+### 6. Types Of Industry
 
 #### ⛏️ Extractive Industry
 Obtains natural resources from the earth.
@@ -144,56 +110,35 @@ Involves building infrastructure.
 
 ---
 
-# 🌟 Causes Of Business Risks 🌟
+### 7. Causes Of Business Risks 
+- **Changes In Demand** - Consumer preferences may change.
 
-### 📉 Changes In Demand
-Consumer preferences may change.
+- **Government Policies** - New laws and regulations may affect operations.
 
-### 🏛️ Government Policies
-New laws and regulations may affect operations.
+- **Natural Disasters** - Floods, droughts, earthquakes, and fires can disrupt business.
 
-### 🌪️ Natural Disasters
-Floods, droughts, earthquakes, and fires can disrupt business.
+- **Competition** - Rivals may attract customers away.
 
-### ⚔️ Competition
-Rivals may attract customers away.
-
-### 💹 Economic Changes
+- **Economic Changes**
 Inflation, recession, and interest rate changes may affect profitability.
 
-### ⚙️ Technological Changes
+- **Technological Changes**
 New technology may make products obsolete.
 
-### 👷 Human Errors
+- **Human Errors**
 Mistakes by employees or management can cause losses.
 
----
-
-# 🌟 Meaning Of Business Environment 🌟
-
-## 📌 Definition
-
-The **business environment** consists of all internal and external factors that influence the operations and performance of a business.
 
 ---
 
-# 🌟 Meaning Of Business Risks 🌟
+### 8. 🌟 Scanning 🌟
 
-## 📌 Definition
-
-**Business risk** is the possibility of a business making losses or failing to achieve its objectives due to uncertainties and unexpected events.
-
----
-
-# 🌟 Scanning 🌟
-
-## 📌 Meaning Of Environmental Scanning
+### 📌 Meaning Of Environmental Scanning
 
 Environmental scanning is the process of gathering, analyzing, and interpreting information about factors that affect a business.
 
----
 
-# 🌟 Why Scan The Environment 🌟
+### b)  Why Scan The Environment 
 
 ### 🔍 Identify Opportunities
 Helps businesses discover new markets and customer needs.
@@ -212,58 +157,56 @@ Allows businesses to respond quickly to environmental changes.
 
 ---
 
-# 🌟 Components Of Business Environment 🌟
+### 9.  Components Of Business Environment 
+- 📌 Micro Environment
+- t consists of factors that directly affect a business.
 
-## 📌 Micro Environment
-
-The micro environment consists of factors that directly affect a business.
-
-### 👥 Customers
+- Customers
 People who buy the products or services.
 
-### 🏢 Competitors
+- Competitors
 Other businesses offering similar products.
 
-### 🚚 Suppliers
+- Suppliers
 Provide raw materials and resources.
 
-### 🤝 Intermediaries
+- Intermediaries
 Assist in distribution and sales.
 
-### 👨‍💼 Employees
+- Employees
 Workers who perform business activities.
 
-### 💰 Shareholders
+- Shareholders
 Owners who invest capital in the business.
 
 ---
 
-## 📌 Macro Environment
+### b) 📌 Macro Environment
 
 The macro environment consists of broader forces that affect all businesses.
 
-### 💹 Economic Factors
+- 💹 Economic Factors
 Inflation, unemployment, and interest rates.
 
-### 🏛️ Political Factors
+- 🏛️ Political Factors
 Government stability and policies.
 
-### ⚖️ Legal Factors
+- ⚖️ Legal Factors
 Laws governing business activities.
 
-### 💻 Technological Factors
+- 💻 Technological Factors
 Advances in technology and innovation.
 
-### 👨‍👩‍👧‍👦 Social Factors
+- 👨‍👩‍👧‍👦 Social Factors
 Lifestyle, values, and social trends.
 
-### 🌍 Cultural Factors
+- 🌍 Cultural Factors
 Beliefs, customs, and traditions.
 
-### 📊 Demographic Factors
+- 📊 Demographic Factors
 Population size, age, and income levels.
 
-### 🌱 Environmental Factors
+- 🌱 Environmental Factors
 Climate change, pollution, and sustainability concerns.
 
 ---
@@ -557,7 +500,7 @@ A person who identifies opportunities, organizes resources, takes risks, and man
 
 -------------
 ----------
-## 🛒 Week 4 : E-Commerce
+# 🛒 Week 4 : E-Commerce
 ### 1. 🌐 Define E-Commerce
   - E-commerce refers to the production, advertising, sale and distribution of products via the electronic network.
     - 🀄 电子商务 — diànzǐ shāngwù = E-commerce
@@ -658,9 +601,18 @@ A person who identifies opportunities, organizes resources, takes risks, and man
   - 🀄 攻击 — gōngjī = Attack
   - 🀄 客户忠诚度 — kèhù zhōngchéngdù = Customer loyalty
 
+ ----------
+ 
+### 10. Challenges facing E-Commerce - find solution for each
+
+- Borderless customers want customized, personalized goods & services.
+- Difficult to get customer loyalty and trust.
+- Complications in return and refund services.
+- Advanced technology is needed to make purchases.
+- Constant innovation to remain competitive.
 --------------------------------
 
-### ⭐ QUICK EXAM CHECK
+### ⭐ QUICK EXAM CHECK FOR E-COMMERCE
 - Topic	What to Remember:
   - 🌐 Definition	Production, advertising, sale & distribution electronically
   - 📱 Channels	Internet + Mobile devices
