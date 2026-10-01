@@ -6,3 +6,6 @@ Key details on what business is all about, from theory to real world application
 - Forms and Structures of Business Ownerships
 - Small Business and Entrepreneurship Development
 - E-Commerce
+
+### Actual Businesses
+Amazon - business model, canvas
