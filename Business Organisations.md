@@ -626,4 +626,48 @@ A person who identifies opportunities, organizes resources, takes risks, and man
   - ❌ Disadvantages	Bad sites, quality issues, failures, limited interaction, hackers
   - ⚠️ 7 tools a small business can use to start an online store.
 
+---------
+-----------
+
+# Week 5 : Development of Management Thought
+</div>
+
+### 1. Factors that have led to Development of Management Thought
+- Social
+- Economic
+- Political
+- Technological
+- Global
+
+### 2. Classifical Perspective of Management
+- Scientific Management
+- Administrative
+- Beurocratic Management - based upon impersonal and rational behavior
+
+### 3. Contributors to  Classifical Perspective of Management
+- Fredrick W. Taylor - Scientific Management- Task Performance, Supervision, Motivation
+- Henri Fayol - 14 principles of management
+
+### 4.  14 Principle of Management Developed by Fayol 
+- Division of work
+Authority and responsibility
+Discipline
+Unity of command
+Unity of direction
+Subordination of individual interest to the common good
+Remuneration of personnel
+Centralization
+Scalar chain
+Order
+Equity
+Stability
+Initiative
+Esprit de corps
+
+### Characteristics of Quantitative Perspective of Management
+- A decision-making focus
+- Development of measurable criteria
+- Formulation of a quantitative model
+- The use of computers
+
 
