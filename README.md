@@ -7,6 +7,7 @@ Key details on what business is all about, from theory to real world application
 - Small Business and Entrepreneurship Development
 - E-Commerce
 - Development of Management Thought
+- Management Functions
 
 ### Actual Businesses
 Amazon - business model, canvas
