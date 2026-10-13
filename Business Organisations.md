@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 🌟 Week 1: Introduction To Business Organizations 
 
 </div>
@@ -251,6 +251,98 @@ Climate change, pollution, and sustainability concerns.
 # 🌟 Week 2: Forms And Structure Of Business Ownerships 🌟
 
 </div>
+
+
+> 📖 *"The future depends on what you do today."* – Mahatma Gandhi
+
+---
+
+### 1. State and Explain Forms of Business Organizations; Advantages and Disadvantages of Each
+
+| Form of Business Organization | Explanation | Advantages | Disadvantages |
+|------------------------------|-------------|------------|--------------|
+| **Sole Proprietorship 👤** | A business owned and managed by one person who provides capital and bears all risks. | Easy to establish; Quick decision-making; Owner enjoys all profits; High secrecy. | Unlimited liability; Limited capital; Limited managerial skills; Lack of continuity. |
+| **Partnership 🤝** | A business owned by two or more persons who agree to share profits and losses. | More capital; Shared responsibilities; Combined skills and expertise; Better decision-making. | Unlimited liability for general partners; Conflicts may arise; Profit sharing; Lack of continuity. |
+| **Company 🏢** | A legal entity formed by shareholders who contribute capital through shares. | Limited liability; Large capital base; Perpetual succession; Professional management. | Expensive to form; Complex legal requirements; Slow decision-making; Less secrecy. |
+| **Co-operative Society 🌾** | A voluntary association formed to promote the economic and social interests of members. | Democratic management; Shared risks; Encourages cooperation; Lower operating costs. | Limited capital; Slow decision-making; Possible management inefficiency; Limited profit motive. |
+
+---
+
+### 2. Describe Types of Partners
+
+| Type of Partner | Description |
+|---------------|-------------|
+| **General Partner** | Contributes capital, participates in management, and has unlimited liability for business debts. |
+| **Limited Partner** | Contributes capital but has liability limited to the amount invested and does not actively manage the business. |
+| **Active Partner** | Takes part in the day-to-day management and operation of the business. |
+| **Sleeping (Dormant) Partner** | Contributes capital and shares profits but does not participate in daily management. |
+| **Nominal Partner** | Lends their name to the business without contributing capital or taking part in management. |
+| **Secret Partner** | Participates in ownership and profit sharing but remains unknown to the public. |
+| **Minor Partner** | A person below the legal age who is admitted to enjoy partnership benefits according to the law. |
+
+---
+
+### 3. Describe Features of a Company
+
+| Feature | Explanation |
+|----------|-------------|
+| **Separate Legal Entity** | The company exists independently of its owners and can sue or be sued in its own name. |
+| **Limited Liability** | Shareholders are only liable for the amount invested in shares. |
+| **Perpetual Succession** | The company continues to exist despite the death, retirement, or withdrawal of members. |
+| **Common Seal** | Acts as the official signature of the company on legal documents. |
+| **Transferability of Shares** | Ownership can be transferred through the sale of shares. |
+| **Large Capital Base** | Companies can raise substantial funds from many investors. |
+| **Professional Management** | Qualified managers may be employed to run the company. |
+| **Legal Formation** | A company must be registered according to company laws. |
+
+---
+
+### 4. Other Legal Forms of Businesses
+
+| Legal Form | Description |
+|------------|-------------|
+| **Joint Venture 🤝** | A temporary business arrangement where two or more parties combine resources to undertake a specific project and share profits or losses. |
+| **State-Owned Enterprise 🏛️** | A business owned and controlled by the government to provide public services or generate revenue. |
+| **Non-Governmental Organization (NGO) 🌍** | A non-profit organization established to address social, humanitarian, environmental, or development issues. |
+| **Franchise Business 🍔** | A business arrangement in which a franchisor allows a franchisee to use its name, products, and business model. |
+| **Holding Company 📊** | A company formed primarily to own and control shares in other companies. |
+
+---
+
+### 5. State and Explain Laws Applicable to Businesses
+
+Business laws are regulations that guide business operations and ensure organizations act responsibly towards employees, customers, the government, and society.
+
+| Law Applicable to Businesses | Explanation |
+|-----------------------------|-------------|
+| **Health and Safety Laws 🦺** | These laws require businesses to provide a safe and healthy working environment for employees, customers, and visitors. They help prevent accidents and occupational hazards. |
+| **Environmental Laws 🌱** | These laws regulate business activities to ensure that organizations do not pollute or harm the environment. |
+| **Employee Rights Laws 👨‍💼** | These laws protect employees regarding wages, working conditions, working hours, leave, and protection from discrimination. |
+| **Service Provision to Differently Abled People Laws ♿** | These laws require businesses to ensure equal access to facilities, products, and services for persons with disabilities. |
+| **Intellectual Property Rights Laws 💡** | These laws protect inventions, trademarks, patents, copyrights, and other original creations from unauthorized use. |
+| **Operating License Laws 📜** | These laws require businesses to obtain the necessary permits and licenses before operating legally. |
+| **Insurance Laws 🛡️** | These laws require businesses to obtain appropriate insurance cover to protect against risks such as accidents, fire, theft, and liabilities. |
+| **Statutory Obligations Laws ⚖️** | These laws require businesses to comply with legal requirements such as tax payments, registration, record keeping, and statutory contributions. |
+
+---
+
+## 🎯 Quick Revision Summary
+
+| Topic | Key Points |
+|---------|-----------|
+| **Forms of Business Organizations** | Sole Proprietorship, Partnership, Company, Co-operative Society |
+| **Types of Partners** | General, Limited, Active, Sleeping, Nominal, Secret, Minor |
+| **Features of a Company** | Separate Legal Entity, Limited Liability, Perpetual Succession, Common Seal, Transferability of Shares, Large Capital Base, Professional Management |
+| **Other Legal Forms** | Joint Venture, State-Owned Enterprise, NGO, Franchise Business, Holding Company |
+| **Laws Applicable to Businesses** | Health & Safety, Environmental, Employee Rights, Differently Abled Services, Intellectual Property Rights, Operating Licenses, Insurance, Statutory Obligations |
+
+> 🌟 *"Success is where preparation and opportunity meet."* – Bobby Unser
+
+> 🚀 *"One chapter studied today is one less chapter to worry about tomorrow."*
+
+> 🎓 *"The harder you work for something, the greater you'll feel when you achieve it."*
+
+  
 
 --------------
 -------------
@@ -628,8 +720,9 @@ A person who identifies opportunities, organizes resources, takes risks, and man
 
 ---------
 -----------
-
-# Week 5 : Development of Management Thought
+<div align="center">
+  
+# 🌟 Week 5 : Development of Management Thought
 </div>
 
 ### 1. Factors that have led to Development of Management Thought
@@ -669,5 +762,362 @@ Esprit de corps
 - Development of measurable criteria
 - Formulation of a quantitative model
 - The use of computers
+
+----------
+# 🌟 Week 5b: Management Functions
+
+> 📚 *"The secret of getting ahead is getting started."* – Mark Twain
+
+---
+
+### 1. State and Explain Management Functions (Management Process)
+
+Management functions are the basic activities performed by managers to achieve organizational goals efficiently and effectively.
+
+**Planning 📝**
+
+Planning involves deciding in advance what should be done, how it should be done, when it should be done, and who should do it. It helps provide direction and reduces uncertainty.
+
+**Organizing 🏢**
+
+Organizing involves arranging resources, assigning tasks, and establishing authority relationships within the organization. It ensures that resources are used efficiently.
+
+**Staffing 👥**
+
+Staffing involves recruiting, selecting, training, developing, and placing employees in appropriate positions. It ensures the organization has qualified personnel.
+
+**Directing / Leading 🎯**
+
+Directing involves guiding, motivating, supervising, and communicating with employees to ensure organizational objectives are achieved.
+
+**Controlling 📊**
+
+Controlling involves measuring actual performance, comparing it with set standards, and taking corrective action where necessary to achieve organizational goals.
+
+---
+
+### 2. State Management Roles in: Interpersonal, Informational, and Decisional
+
+Management roles were identified by Henry Mintzberg and grouped into three major categories.
+
+| Category | Role | Explanation |
+|-----------|------|-------------|
+| **Interpersonal** | Figurehead | Performs ceremonial and symbolic duties on behalf of the organization. |
+| | Leader | Guides, motivates, and supervises employees. |
+| | Liaison | Maintains relationships with individuals and organizations outside the company. |
+| **Informational** | Monitor | Collects and analyzes information relevant to the organization. |
+| | Disseminator | Distributes important information to employees and departments. |
+| | Spokesperson | Communicates information about the organization to external parties. |
+| **Decisional** | Entrepreneur | Initiates improvements and innovative projects within the organization. |
+| | Disturbance Handler | Resolves conflicts, crises, and unexpected problems. |
+| | Resource Allocator | Decides how organizational resources should be distributed. |
+| | Negotiator | Represents the organization in negotiations with stakeholders and suppliers. |
+
+---
+
+### 3. State and Explain Management Skills
+
+Management skills are the abilities and competencies that enable managers to perform their duties effectively.
+
+**Technical Skills ⚙️**
+
+These are the abilities required to perform specialized tasks using specific knowledge, techniques, and tools. They are most important for lower-level managers.
+
+**Example:** An accountant preparing financial reports.
+
+**Human Skills 🤝**
+
+These are the abilities to work effectively with other people, communicate well, and build positive relationships.
+
+**Example:** Resolving conflicts among employees.
+
+**Conceptual Skills 💡**
+
+These are the abilities to understand the organization as a whole and recognize how different departments and activities are interconnected.
+
+**Example:** Developing long-term organizational strategies.
+
+**Communication Skills 🗣️**
+
+These involve the ability to share information clearly and effectively through speaking, writing, listening, and presentation.
+
+**Example:** Conducting meetings and preparing reports.
+
+**Decision-Making Skills ✅**
+
+These are the abilities to identify problems, evaluate alternatives, and select the best course of action.
+
+**Example:** Choosing the most suitable supplier for the organization.
+
+**Leadership Skills 🌟**
+
+These involve influencing, motivating, and inspiring employees to work towards achieving organizational goals.
+
+**Example:** Encouraging employees to improve productivity.
+
+---
+
+## 🎯 Quick Revision Summary
+
+**Management Functions**
+1. Planning
+2. Organizing
+3. Staffing
+4. Directing / Leading
+5. Controlling
+
+**Management Role Categories**
+1. Interpersonal Roles
+2. Informational Roles
+3. Decisional Roles
+
+**Management Skills**
+1. Technical Skills
+2. Human Skills
+3. Conceptual Skills
+4. Communication Skills
+5. Decision-Making Skills
+6. Leadership Skills
+
+> 💪 *"Success is the sum of small efforts repeated day in and day out."* – Robert Collier
+
+> 🎓 *"Do something today that your future self will thank you for."*
+
+> 🚀 *"Every page you study today is one step closer to passing your exams with confidence."*
+----------
+-----------
+
+<div align="center">
+
+# 🌟 Week 6: Facilitating Functions
+
+</div>
+
+> 📚 *"Success doesn't come from what you do occasionally. It comes from what you do consistently."*
+
+---
+
+### 1. State and Explain Auxiliary Activities to Trade
+
+Auxiliary activities to trade are services that support the exchange of goods and services. They make trade easier, faster, and more efficient.
+
+**Transportation 🚚**
+
+Transportation involves moving goods and people from one place to another. It helps producers reach consumers and expands markets.
+
+**Banking 💰**
+
+Banking provides financial services such as loans, credit facilities, money transfers, and safe storage of money. It facilitates business transactions.
+
+**Insurance 🛡️**
+
+Insurance protects businesses against losses arising from risks such as fire, theft, accidents, and natural disasters.
+
+**Warehousing 🏬**
+
+Warehousing involves storing goods until they are required for sale or use. It ensures a continuous supply of products.
+
+**Communication 📞**
+
+Communication enables the exchange of information between buyers, sellers, and other stakeholders. It supports coordination and decision-making.
+
+**Advertising 📢**
+
+Advertising creates awareness about products and services. It helps attract customers and increase sales.
+
+---
+
+### 2. Describe Types of Purchasing
+
+**Centralized Purchasing**
+
+This is a system where all purchasing activities are conducted by a single department within the organization.
+
+**Advantages:**
+- Enables bulk purchasing discounts
+- Improves control over purchases
+- Promotes uniform purchasing policies
+
+**Decentralized Purchasing**
+
+This occurs when various departments or branches make their own purchasing decisions independently.
+
+**Advantages:**
+- Faster decision-making
+- Greater flexibility
+- Better understanding of departmental needs
+
+**Local Purchasing**
+
+This involves buying goods and services from suppliers within the local area or country.
+
+**Advantages:**
+- Reduced transport costs
+- Faster delivery
+- Easier communication with suppliers
+
+**International Purchasing**
+
+This involves obtaining goods and services from suppliers located in other countries.
+
+**Advantages:**
+- Access to a wider market
+- Availability of specialized products
+- Potential cost savings
+
+---
+
+### 3. Mention Functions of Purchasing and Supply Department
+  1. **Identifying Organizational Needs** - The department determines the materials, equipment, and services required by the organization.
+  2. **Supplier Selection** - It identifies and evaluates suppliers capable of meeting organizational requirements.
+  3. **Negotiation** - The department negotiates prices, delivery schedules, quality requirements, and contract terms.
+  4. **Procurement of Goods and Services** - It purchases the required items at the right quality, quantity, time, and cost.
+  5. **Receiving and Inspection** - Purchased goods are received and checked to ensure they meet specified standards.
+  6. **Inventory Management** - The department monitors stock levels and ensures adequate supply of materials.
+  7. **Cost Control** - It seeks to minimize procurement costs and maximize value for money.
+  8. **Supplier Relationship Management**- It maintains good relationships with suppliers to ensure reliability and continuity of supply.
+
+---
+
+### 4. Factors Influencing the Place of Purchasing and Supply in an Organisation
+
+**Size of the Organization**
+
+Large organizations often require a separate purchasing and supply department due to the volume of purchases.
+
+**Organizational Structure**
+
+The structure of an organization determines where the purchasing function is positioned.
+
+**Management Policy**
+
+Management decisions regarding centralization or decentralization influence the department's placement.
+
+**Nature of Goods Purchased**
+
+Complex or specialized products may require a highly organized procurement function.
+
+**Financial Resources**
+
+Organizations with adequate financial resources can establish an independent purchasing department.
+
+**Technology Level**
+
+Advanced technology may increase the strategic importance of purchasing and supply activities.
+
+**Operational Requirements**
+
+The nature and scope of organizational operations influence procurement responsibilities.
+
+---
+
+### 5. Factors That Affect Stock Level Cost
+
+**Demand for Products**
+
+High demand may require larger stock levels, increasing storage costs.
+
+**Lead Time**
+
+Long lead times often require businesses to hold more inventory as a precaution.
+
+**Storage Facilities**
+
+Availability and cost of warehousing directly affect stock-holding costs.
+
+**Cost of Capital**
+
+Funds invested in inventory cannot be used elsewhere, increasing holding costs.
+
+**Risk of Damage or Theft**
+
+Products that are easily damaged or stolen increase inventory-related costs.
+
+**Seasonal Variations**
+
+Seasonal demand patterns may require higher stock levels during certain periods.
+
+**Nature of Goods**
+
+Perishable and fragile goods often require special storage arrangements, increasing costs.
+
+**Supplier Reliability**
+
+Reliable suppliers reduce the need for excessive safety stock.
+
+---
+
+### 6. Types of Inventory Costs with Examples
+
+| Inventory Cost | Explanation | Example |
+|---------------|------------|---------|
+| **Ordering Cost** | Costs incurred when preparing and placing orders for inventory. | Transport costs, paperwork, and communication expenses. |
+| **Holding (Carrying) Cost** | Costs associated with storing and maintaining inventory. | Warehouse rent, insurance, and security expenses. |
+| **Purchase Cost** | The actual cost of acquiring inventory items. | Buying 500 cartons of milk. |
+| **Shortage Cost** | Costs incurred when inventory runs out. | Lost sales and dissatisfied customers. |
+| **Obsolescence Cost** | Costs arising when goods become outdated or unusable. | Expired medicines or outdated electronic devices. |
+
+---
+
+### 7. Explain the Importance of Transportation
+
+**Facilitates Trade**
+
+Transportation enables goods to move from producers to consumers efficiently.
+
+**Expands Markets**
+
+Businesses can sell products beyond their local areas, reaching a larger customer base.
+
+**Creates Employment**
+
+The transport sector provides jobs for drivers, pilots, logistics personnel, and many others.
+
+**Supports Industrial Growth**
+
+Industries depend on transportation for raw materials and distribution of finished products.
+
+**Encourages Specialization**
+
+Regions can focus on producing goods they are best suited to manufacture.
+
+**Promotes Economic Development**
+
+Efficient transportation increases productivity and stimulates national economic growth.
+
+**Reduces Price Differences**
+
+Transportation helps distribute goods evenly across regions, reducing supply shortages.
+
+---
+
+### 8. Modes of Transport: Advantages and Disadvantages
+
+| Mode of Transport | Advantages | Disadvantages |
+|------------------|------------|---------------|
+| 🚛 **Road Transport** | Flexible, provides door-to-door service, suitable for short distances | Affected by traffic congestion, accidents, and poor weather conditions |
+| 🚆 **Rail Transport** | Economical for bulky goods, large carrying capacity, reliable for long distances | High construction costs, operates only along fixed routes |
+| 🚢 **Water Transport** | Cheapest means for heavy and bulky goods, suitable for international trade | Slow, affected by weather and port delays |
+| ✈️ **Air Transport** | Fastest mode of transport, suitable for urgent and perishable goods | Very expensive and limited carrying capacity |
+| 🚰 **Pipeline Transport** | Reliable, continuous operation, low operating costs after installation | High installation costs and limited to liquids and gases |
+
+---
+
+## 🎯 Quick Exam Tips
+
+✅ Auxiliary activities to trade: **Transportation, Banking, Insurance, Warehousing, Communication, Advertising**
+
+✅ Types of purchasing: **Centralized, Decentralized, Local, International**
+
+✅ Inventory costs: **Ordering, Holding, Purchase, Shortage, Obsolescence**
+
+✅ Main modes of transport: **Road, Rail, Water, Air, Pipeline**
+
+> 🌟 *"The future depends on what you do today."* – Mahatma Gandhi
+
+> 🎓 *"A little progress each day adds up to big results."*
+
+> 🚀 *"Your grades are a reflection of your preparation. Keep studying, keep winning!"*
+
 
 
